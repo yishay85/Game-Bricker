@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DanoGameLab">
+    <output-path>$PROJECT_DIR$/out/artifacts/DanoGameLab</output-path>
+    <root id="archive" name="DanoGameLab.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/../DanoGameLab" />
+    </root>
+  </artifact>
+</component>
